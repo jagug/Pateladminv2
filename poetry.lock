@@ -297,13 +297,14 @@ beautifulsoup4 = "*"
 
 [[package]]
 name = "gpytranslate"
-version = "1.4.0"
+version = "1.5.1"
 description = "A Python3 library for translating text using Google Translate API."
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 files = [
-    {file = "gpytranslate-1.4.0-py3-none-any.whl", hash = "sha256:c2a7d0673b08e696b2efe66adc192c55a485cd2786c2dff73afcb1eddaf64726"},
+    {file = "gpytranslate-1.5.1-py3-none-any.whl", hash = "sha256:3e7e17d209358454ae60fd16157a995fb1bd620c30a9c1a6343151375a9140ab"},
+    {file = "gpytranslate-1.5.1.tar.gz", hash = "sha256:af3cfdbe8223531c23601b4473080c3895081d3de8ac75fbbb20f5feecd6c154"},
 ]
 
 [package.dependencies]
@@ -1524,4 +1525,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.7"
-content-hash = "d18229fa3a9bdcb9e621fb9bfa7e5712195ac5d9b4dbcd0d0181b2a0e9bdc7dc"
+content-hash = "395f91e50eef66e1e2b4c2e9f4c71d56ecb2093027982a204d5e9731751838fb"
